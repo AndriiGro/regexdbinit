@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace RegexESDBInit
+namespace Grondzal.RegexESDBInit
 {
     public partial class Main : MetroForm
     {
