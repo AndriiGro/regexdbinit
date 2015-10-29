@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace Grondzal.RegexESDBInit.Configs
 {
-    public static class UnityConfig
+    public class UnityConfig
     {
-        private static UnityContainer _conteiner { get; set; }
+        private UnityContainer _conteiner { get; set; }
 
         private void SetDependencies(UnityContainer container)
         {
